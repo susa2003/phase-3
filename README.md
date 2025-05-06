@@ -1,1 +1,8 @@
-# phase-3
+1.Objective: Track and analyze sentiment shifts in political speeches over time to understand how political rhetoric evolves in response to historical events and public sentiment. 
+2.Data Collection: Gather political speeches from various leaders across different historical periods, focusing on presidential addresses, campaign speeches, and parliamentary debates. 3.Sentiment Analysis: Apply machine learning models (e.g., BERT, VADER) to evaluate sentiment polarity (positive, negative, neutral) in speeches and detect specific emotions (e.g., anger, hope, fear). 
+4.Thematic Analysis: Identify recurring political themes and policy topics (e.g., security, economy, social justice) to understand how these correlate with sentiment changes. 5.Time-series Analysis: Track sentiment shifts over time using time-series analysis to identify patterns and correlations with major political or societal events (e.g., elections, crises). 
+6.Correlation with Historical Events: Analyze how sentiment changes align with specific historical events like wars, elections, or economic downturns, to uncover potential cause-effect rel6.ationships. 
+7.Visualization: Use graphs, heatmaps, and word clouds to visually present sentiment trends and thematic shifts over time for easier interpretation. 
+8.Impact on Public Opinion: Explore how shifts in sentiment influence public opinion and political behavior, potentially predicting electoral outcomes or social movements. 
+9.Tools and Technology: Utilize Python, machine learning models, and data visualization platforms (e.g., Tableau, Jupyter Notebooks) to carry out analysis and present findings. 
+10.Outcome and Applications: The project will provide valuable insights for political campaigns, public opinion analysis, academic research, and media outlets to understand and shape political discourse
